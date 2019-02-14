@@ -5,10 +5,12 @@ Your task is to implement a small database application, which imports a dataset 
 Your application has to be able to answer queries corresponding to the following questions:
 
   1. How many Twitter users are in the database?
-  2. Which Twitter users link the most to other Twitter users? (Provide the top ten.)
-  * Who is are the most mentioned Twitter users? (Provide the top five.)
   * Who are the most active Twitter users (top ten)?
-  * Who are the five most grumpy (most negative tweets) and the most happy (most positive tweets)? 
+  * Who are the 
+	  * five most grumpy (most negative tweets) and 
+	  * the most happy (most positive tweets)? 
+  * Which Twitter users link the most to other Twitter users? (Provide the top ten.)
+  * Who is are the most mentioned Twitter users? (Provide the top five.)
   
 Your application can be written in the language of your choice. It must have a structured form of acceess, but it is not important if it is an API, a CLI UI, a GUI, or a Web-based UI.
 
