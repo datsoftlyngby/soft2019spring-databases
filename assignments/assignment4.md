@@ -15,7 +15,7 @@ An overview of the tables are in this figure:
 <img src="images/ClassicModelsER.png" width="75%">
 
 ### Handin
-You hand-in on peergrade Sunday 24th at 16:00.  Your hand-in is a link to a github repository.
+You hand-in on peergrade Monday 25th at 06:00.  Your hand-in is a link to a github repository.
 
 
 ## Excercise 1 - user privileges
