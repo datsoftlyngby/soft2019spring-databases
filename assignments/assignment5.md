@@ -1,18 +1,16 @@
 # Assignment 5
 
-Our belowed site "stackoverflow" is part of a family of technical sites called "stack"
-
-Stack exhange data:
-https://archive.org/details/stackexchange.
+Our belowed site "stackoverflow" is part of a family of technical sites called "stackexchange.com". They run over 300 discussion fora similar to stackoverflow. The data of all those sites are awailable for download at the internet archive at: 
+<https://archive.org/details/stackexchange>.
 
 The programming stackexchange is about 40GB compressed XML - I guestimate around 100GB expanded.
 
-I suggest you use the two dataserts for "coffee.stackexchange.com" (small - for debugging purposes), and "askubuntu.com" which is around 700MB compressed - expands into 2GB XML.
+I suggest you use the two dataserts for "coffee.stackexchange.com" (small - for debugging purposes), and "askubuntu.com" which is around 700MB compressed - expands into 2GB XML. **You are free to choose which stackexchange site you want** - if you pick something else than "askubunto" you must mention so in the readme file of the handin.
 
 The data is in several xml files, following a fixed naming scheme. There is a text file in the right side which explains briefly each field and table.
 
 #### Loading the data
-This is [a script that can serve as the basis for the stored procedure](https://gist.github.com/emanoelbarreiros/c164a60e98a7482cde22)
+This is [a script that can serve as the basis loading the files into a database](https://gist.github.com/emanoelbarreiros/c164a60e98a7482cde22)
 
 ### Exercise 1
 Write a stored procedure `denormalizeComments(postID)` that moves all comments to a post (the parameter) into a json array.  
