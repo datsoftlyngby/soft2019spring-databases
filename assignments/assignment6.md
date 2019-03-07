@@ -54,11 +54,12 @@ In the stackexchange forum for coffee (coffee.stackexchange.com), write a query 
 * If you find the explanation good or bad - say so, and be constructive.
 
 ## Exercise 5
-Add a text index to the `posts` table and change the query from exercise 4 so it no longer scans the entire `posts` table. 
+Add a full text index to the `posts` table and change the query from exercise 4 so it no longer scans the entire `posts` table. 
 
 ### Hand-in:
 * the revised query
 * the sql needed to add your index
+	* in particular your choice between a "natural language" full-text search and a "boolean" full-text search.
 * documentation of efficiency in the form of an execution plan
 
 ### Review:
