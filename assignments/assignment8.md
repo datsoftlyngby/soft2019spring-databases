@@ -19,6 +19,8 @@ This exercise is a bit more technical in its setup than the others we have been 
 ## Handin
 You need to document enough of your server for your reviewer to be able to set-up a new slave of your server. You need to make a database user which allow your reviewer to be able to make an update to your master database to verify that the slave updates correctly.
 
+* Put password in a special file for peergrade, so it is not on github.
+
 ## Review
 * Verify that you are able to set up your own slave of the database you review. 
 * Verify that you can update the master database and see the changes to your database.
