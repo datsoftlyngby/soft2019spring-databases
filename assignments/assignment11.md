@@ -16,6 +16,8 @@ The exercises below will be used to implement the following aspects:
 * A very simple query language which is expressed in terms of entities, and translates into SQL.
 * We will skip the part of the ORM which allow us to store data.
 
+
+
 # Exercise 1
 There are many ways to specify the relationship between entities and database tables. We will use a simple json like format:
 
