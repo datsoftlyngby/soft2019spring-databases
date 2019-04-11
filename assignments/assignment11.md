@@ -22,24 +22,24 @@ The exercises below will be used to implement the following aspects:
 There are many ways to specify the relationship between entities and database tables. We will use a simple json like format:
 
 ```json
-{ 'schemaName': 'MicroShop',
-  'entities': [
-  	'Customer': {
-  		'name': 'String',
-  		'orders' :'*Order'},
-  	'Order' :{
-  		'date': 'String',
-  		'total': 'Number',
-  		'customer': 'Customer',
-  		'lines': '*OrderLine' },
-  	'OrderLine' : {
-  		'order': 'Order',
-  		'product': 'Product',
-  		'count': 'Number',
-  		'total': 'Number' },
-  	'Product' : {
-  		'name': 'String',
-  		'price' :'Number'}
+{"schemaName": "MicroShop",
+  "entities": [
+  	{"Customer": {
+  		"name": "String",
+  		"orders" :"*Order"}},
+  	{"Order" :{
+  		"date": "String",
+  		"total": "Number",
+  		"customer": "Customer",
+  		"lines": "*OrderLine" }},
+  	{"OrderLine" : {
+  		"order": "Order",
+  		"product": "Product",
+  		"count": "Number",
+  		"total": "Number" }},
+  	{"Product" : {
+  		"name": "String",
+  		"price" :"Number"}}
   ]
 }
 ```
