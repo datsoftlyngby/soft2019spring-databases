@@ -1,0 +1,19 @@
+// A simple graph
+digraph {
+	node [color=lightgreen shape=circle style=filled]
+	rankdir=LR
+	size="8,5"
+		0 [label=Emil]
+		1 [label=Johan]
+		2 [label=Ian]
+		3 [label=Rik]
+		4 [label=Allison]
+			0 -> 1 [label="KNOWS
+since: 2001"]
+			0 -> 2 [label="KNOWS
+rating: 5"]
+			1 -> 2 [label=KNOWS]
+			1 -> 3 [label=KNOWS]
+			3 -> 4 [label=KNOWS]
+			2 -> 4 [label=KNOWS]
+}

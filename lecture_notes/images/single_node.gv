@@ -1,0 +1,8 @@
+// A single node
+digraph {
+	node [color=lightgreen shape=circle style=filled]
+	size="6,3"
+		0 [label="name: \"Odessa Satmary\"
+job: \"Shoe Coverer\"
+birthday: \"1973-12-20\""]
+}

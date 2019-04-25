@@ -1,0 +1,3 @@
+digraph {
+  customer [shape=box,label="Customer"]
+}

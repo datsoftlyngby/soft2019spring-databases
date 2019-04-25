@@ -1,0 +1,9 @@
+digraph {
+  id -> customer [arrowhead=none];
+  address -> customer [arrowhead=none];
+  name -> customer [arrowhead=none];
+  id [label="Id"];
+  address [label="Address"];
+  name [label="Name"];
+  customer [shape=box,label="Customer"];
+}

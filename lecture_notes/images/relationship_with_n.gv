@@ -1,0 +1,8 @@
+digraph {
+  rankdir=LR;
+  relation [shape=diamond,label="owns"];
+  customer -> relation [arrowhead=none,taillabel="1",labelangle=50];
+  relation -> car [arrowhead=none,headlabel="n",labelangle=310];
+  customer [shape=box,label="Customer"]
+  car [shape=box,label="Car"]
+}

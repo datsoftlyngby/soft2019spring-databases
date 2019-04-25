@@ -1,0 +1,6 @@
+digraph {
+  rankdir=LR;
+  customer -> car [arrowhead=none];
+  customer [shape=box,label="Customer"]
+  car [shape=box,label="Car"]
+}
