@@ -43,7 +43,7 @@ Your final report has to provide information on the following:
   * Your recommendation, for which database engine to use in such a project for production.
   
   
-**OBS** Remember to use the approprite diagram notaions for documentation.
+**OBS** Remember to use the approprite diagram notations for documentation.
 
 # Hand-in Procedure
 

@@ -37,8 +37,7 @@ Precisely, your task is:
     * Give an explanation of the differences in your time measurements. 
     * Conclude which database is better suited for this kind of queries and explain why.
   7. Push your solution, source, code, and presentation of the results to a Github repository *and* hand-in a link to that repository on peergrade.
-  8. The *hand-in* time is latest 24. April 2018 at 24o'clock .
-
+  
 
 ## Hints:
 
