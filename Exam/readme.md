@@ -1,6 +1,20 @@
 # Database exam, spring 2019
+The exam is based on your group handing in the gutenberg exam project mentioned below. Deadline and practial information of handin is given below as well.
 
-### Exam project
+You enter the oral exam in groups. We set aside 10 min for the group, 15 min per person and 5 min for grading and feedback.
+
+The oral exam should start with the group presenting the project in a few slides. 
+
+Next there are two options that the group will choose from:
+
+1. After presentation all leave and enter one at a time to draw a question and get a grade.
+2. After presentation we have a discussion of the design of your solution and its relation to the topics from the class.
+
+I recommend exam form 2. I do not need to be told before the exam, the group can tell when the exam starts if they prefer exam form 1 or 2.
+
+In both exam forms you are given individual grades, based on your project and your oral exam.
+
+### Gutenberg exam project
 
 To attend the exam you must solve and hand-in this project:
 
@@ -18,7 +32,6 @@ Exceptions (group size, programming language, ...) need to be negotiated with Ka
 
 ### Exam questions
 To allow you to prepare better for the oral exam, [this list of questions](ExamQuestions.md) gives an overview of what issues we would like to discuss at the exam.
-
 
 ### Exam schedule
 You will be examed in groups according [this schedule]() (all exams are on June 11th and 12th).
