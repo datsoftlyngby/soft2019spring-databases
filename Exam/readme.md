@@ -3,13 +3,21 @@
 ## Re-exam, Wednesday June 26th
 This is an oral exam without project.
 
-At the beginning of the exam, you will draw [one of the exam questions in this list](ExamQuestions.md).
+At the beginning of the exam, you will draw [one of the exam questions in this list](ExamQuestions.md). You are then expected to start presenting your answer. The examiner can interrupt with questions along the way.
 
 **Schedule and length of the exam.** <br>
 This will be announced on Wiseflow.
 
 **Preparation.** <br>
 At the exam you can bring your notes. You are allowed to briefly look at your notes after you have drawn a question.
+
+It is encouraged that you bring your computer to allow you to show information that help you explain each question. This could for example be:
+
+* ER diagrams
+* non-trivial queries
+* query plans
+
+You are also welcome to show a live demo if that is the easiest way to present some information.
 
 ## Ordinary exam
 The exam is based on your group handing in the gutenberg exam project mentioned below. Deadline and practial information of handin is given below as well.
