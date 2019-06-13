@@ -1,4 +1,17 @@
 # Database exam, spring 2019
+
+## Re-exam, Wednesday June 26th
+This is an oral exam without project.
+
+At the beginning of the exam, you will draw [one of the exam questions in this list](ExamQuestions.md).
+
+**Schedule and length of the exam.** <br>
+This will be announced on Wiseflow.
+
+**Preparation.** <br>
+At the exam you can bring your notes. You are allowed to briefly look at your notes after you have drawn a question.
+
+## Ordinary exam
 The exam is based on your group handing in the gutenberg exam project mentioned below. Deadline and practial information of handin is given below as well.
 
 You enter the oral exam in groups. We set aside 10 min for the group, 15 min per person and 5 min for grading and feedback.
